@@ -1,0 +1,1 @@
+A robust backend application for a social media engagement platform, built with secure authentication, role-based access control, and RESTful APIs. Users can register, log in, create posts, and comment on others' posts, while admins have elevated privileges to manage all content
