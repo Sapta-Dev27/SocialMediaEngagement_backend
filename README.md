@@ -55,7 +55,7 @@ A robust backend application for a social media engagement platform, built with 
 - **Containerization**: Docker
 
 ---
-##📂 Folder Structure
+#📂 Folder Structure
 ```
 .
 ├── prisma/                         # Prisma schema and migrations
